@@ -1,8 +1,7 @@
 {
   "semver": false,
-  "lang": "idris",
-  "max_version": null,
+  "parser_version": "c56a25cf57c68ff929356db25505c1cc4c7820f6",
   "location": null,
-  "min_version": null,
+  "lang": "idris",
   "url": "https://github.com/kayhide/tree-sitter-idris"
 }
