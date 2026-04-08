@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kayhide/tree-sitter-idris",
   "semver": false,
   "parser_version": "c56a25cf57c68ff929356db25505c1cc4c7820f6",
-  "lang": "idris"
+  "lang": "idris",
+  "url": "https://github.com/kayhide/tree-sitter-idris"
 }
